@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tabela_Hash", "Tabela_Hash\Tabela_Hash.vcxproj", "{CFB853E4-AFB9-46D2-B989-E2A6BCB314F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB853E4-AFB9-46D2-B989-E2A6BCB314F8}.Debug|x64.ActiveCfg = Debug|x64
+		{CFB853E4-AFB9-46D2-B989-E2A6BCB314F8}.Debug|x64.Build.0 = Debug|x64
+		{CFB853E4-AFB9-46D2-B989-E2A6BCB314F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFB853E4-AFB9-46D2-B989-E2A6BCB314F8}.Debug|x86.Build.0 = Debug|Win32
+		{CFB853E4-AFB9-46D2-B989-E2A6BCB314F8}.Release|x64.ActiveCfg = Release|x64
+		{CFB853E4-AFB9-46D2-B989-E2A6BCB314F8}.Release|x64.Build.0 = Release|x64
+		{CFB853E4-AFB9-46D2-B989-E2A6BCB314F8}.Release|x86.ActiveCfg = Release|Win32
+		{CFB853E4-AFB9-46D2-B989-E2A6BCB314F8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFD1E311-5C87-4195-BA4D-4844BD759D00}
+	EndGlobalSection
+EndGlobal

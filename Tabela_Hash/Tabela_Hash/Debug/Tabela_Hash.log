@@ -1,0 +1,9 @@
+﻿  hash_string.cpp
+C:\Users\PC\Desktop\Faculdade\Faculdade 3\Estruturas de Dados II\Tabela_Hash\Tabela_Hash\hash_string.cpp(69): error C2664: 'void insert_chained(Hash *,char *)': não é possível converter um argumento 2 de 'const char [7]' em 'char *'
+  C:\Users\PC\Desktop\Faculdade\Faculdade 3\Estruturas de Dados II\Tabela_Hash\Tabela_Hash\hash_string.cpp(69): note: A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\PC\Desktop\Faculdade\Faculdade 3\Estruturas de Dados II\Tabela_Hash\Tabela_Hash\hash_string.cpp(70): error C2664: 'void insert_chained(Hash *,char *)': não é possível converter um argumento 2 de 'const char [6]' em 'char *'
+  C:\Users\PC\Desktop\Faculdade\Faculdade 3\Estruturas de Dados II\Tabela_Hash\Tabela_Hash\hash_string.cpp(70): note: A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+  main.cpp
+  Gerando Código...
+C:\Users\PC\Desktop\Faculdade\Faculdade 3\Estruturas de Dados II\Tabela_Hash\Tabela_Hash\main.cpp(70): warning C4715: 'hash_insert': nem todos os caminhos de controle retornam um valor
+C:\Users\PC\Desktop\Faculdade\Faculdade 3\Estruturas de Dados II\Tabela_Hash\Tabela_Hash\main.cpp(52): warning C4715: 'hash_search': nem todos os caminhos de controle retornam um valor
